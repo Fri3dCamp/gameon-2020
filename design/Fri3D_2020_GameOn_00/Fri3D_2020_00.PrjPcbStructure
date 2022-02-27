@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Fri3D_2020_00.SchDoc
+Record=SheetSymbol|SourceDocument=Fri3D_2020_00.SchDoc|Designator=ESP32|SchDesignator=ESP32|FileName=Fri3D_2020_ESP32.SchDoc|SymbolType=Normal|RawFileName=Fri3D_2020_ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Fri3D_2020_00.SchDoc|Designator=Peripherals|SchDesignator=Peripherals|FileName=Fri3D_2020_Peripherals.SchDoc|SymbolType=Normal|RawFileName=Fri3D_2020_Peripherals.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Fri3D_2020_00.SchDoc|Designator=Power|SchDesignator=Power|FileName=Fri3D_2020_Power.SchDoc|SymbolType=Normal|RawFileName=Fri3D_2020_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
