@@ -19,4 +19,7 @@ First prototype to verify the schematic design.
 ## REV 01
 Modified the pinout for the new hardware revision of the badge.
 
+## REV 02
+Production version of the GameOn. 
 
+Note that the Start button, connected to the [badge](https://github.com/Fri3dCamp/badge-2020) IO pin 32, is active high whilst all other buttons are active low.
