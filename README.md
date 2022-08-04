@@ -1,7 +1,8 @@
-# Fri3d Badge 2020
+# Fri3d GameOn 2020
 
 This repository contains the hardware design of the [Fri3d Camp](https://fri3d.be/) GameOn that connects to the [badge](https://github.com/Fri3dCamp/badge-2020).
 The board consists our of a joystick, some buttons, a Micro SD card slot and a small 1W audio amplifier.
+The project progress can be followed on our [Hackaday.io](https://hackaday.io/project/183766-gameon) page.
 
 ## Blockdiagram
 
